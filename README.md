@@ -1,6 +1,3 @@
-Here’s the complete `README.md` content in markdown:
-
-```markdown
 # Face Detection Using Haar Cascades
 
 ### **Course**: Computer Vision and Image Processing  
