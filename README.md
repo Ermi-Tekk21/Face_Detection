@@ -14,8 +14,8 @@ This project demonstrates face detection using Haar Cascades, a pre-trained mode
 | **Name**               | **ID**           |
 |------------------------|------------------|
 | Ermias Teklemarkos    | UGR/23478/13     |
-| Sosina Birhanu        | UGR/23478/13     |
-| Samuel Teklemariam    | UGR/23478/13     |
+| Samuel Teklemariam    | Ugr/22734/13     |
+| Sosina Birhanu        | ugr/23744/13     |
 
 ---
 
